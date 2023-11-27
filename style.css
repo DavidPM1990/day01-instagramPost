@@ -6,7 +6,6 @@ body {
 }
 
 .post {
-    /* background-color: gray; */
     width: 400px;
     display: flex;
     flex-direction: column;
